@@ -14,6 +14,6 @@ Seleccion Argentina para Qatar 2022
 
 ![](https://github.com/martinhasenbalg/AFA-Seleccion-QATAR-2022/blob/main/portada.png)
 
-![(https://github.com/martinhasenbalg/AFA-Seleccion-QATAR-2022/blob/main/mainmobile.gif0]
+![](https://github.com/martinhasenbalg/AFA-Seleccion-QATAR-2022/blob/main/mainmobile.gif)
 
-![(https://github.com/martinhasenbalg/AFA-Seleccion-QATAR-2022/blob/main/main.gif0]
+![](https://github.com/martinhasenbalg/AFA-Seleccion-QATAR-2022/blob/main/main.gif)
